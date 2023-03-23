@@ -1,4 +1,5 @@
-<h1 align="center"> Projeto-02-desafio-01 <br/> Treine.me </h1>
+<h1 align="center"> 
+Stage02-Projeto02-Treine.me <br/> Treine.me </h1>
 
 
 <p align="center">
