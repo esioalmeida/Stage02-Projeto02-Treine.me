@@ -47,7 +47,7 @@ O Projeto 02 é uma criação de uma Landing-Page básica para fortalecer nosso 
 <br/>
 
 
-- [Visite o projeto online](https://esio1998.github.io/Projeto-02-desafio-01-treinosexclusivosparavoce)
+- [Visite o projeto online](https://esioalmeida.github.io/Stage02-Projeto02-Treine.me/)
 
 <br/>
 
